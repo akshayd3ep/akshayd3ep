@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on network and hacking tools, 
 - 📫 How to reach me akshayss400@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I don't like manual work
+- ⚡ Fun fact:  "Hacker" originally meant someone skilled at building quickly, not just breaking into systems!
 
 <!---
 akshayd3ep/akshayd3ep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
